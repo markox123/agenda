@@ -1,0 +1,11 @@
+[
+  {
+    "id": "00a679f6-eeef-4a89-b9be-31f86dc1ac27",
+    "nome": "João",
+    "horario": "08/06/2025 10:00",
+    "telefone": "+5511999999999",
+    "status": "Finalizado",
+    "notificado": false,
+    "finalizado_em": "11/06/2025 23:54"
+  }
+]
